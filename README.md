@@ -1,11 +1,11 @@
 # tokyo_opendata
-## about
+# about
 東京・首都圏を中心とした鉄道の情報を取得するためのスクリプト集です
 
 
-## metro.py
-###journeys
+# metro.py
 
+##journeys
 乗降客を取得します
 2011-2013年しか取得できないようで、APIから取得できる情報は限られているのかもしれないですが、一応…
 

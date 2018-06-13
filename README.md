@@ -12,6 +12,8 @@
 
 【重要】　対応表
 
+|ID|路線名|
+----|---- 
 |odpt.Railway:TokyoMetro.Fukutoshin|副都心線|
 |odpt.Railway:TokyoMetro.Marunouchi|丸ノ内線|
 |odpt.Railway:TokyoMetro.Hibiya|日比谷線|
